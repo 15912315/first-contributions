@@ -1391,6 +1391,7 @@
 - [Gaurav Agarwal](https://github.com/gauravag091)
 - [Ishaan Shah](https://github.com/ishaan812)
 - [Kanishk Gupta](https://github.com/Kanisshk)
+- [Ritesh Kumar Verma](https://github.com/15912315)
 
 
 <!-- prettier-ignore-end -->
